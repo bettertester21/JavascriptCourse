@@ -5,7 +5,8 @@ c = a + b;
 
 console.log('a: ' + a);
 console.log('b: ' + b);
-console.log('Sum of a and b is: ' + c);
+console.log('c: ' + c);
+console.log('Addition of a and b is: ' + c);
 
 c = a - b;
 console.log('Subtraction of a and b is: ' + c);
